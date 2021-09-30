@@ -21,8 +21,8 @@ What I've learned:
 
 ## Installation
 * Log in GitHub Account
-* This GitHub URL is : https://github.com/lijing-code/03-JS-Password-Generator
-* The live URL is : https://lijing-code.github.io/03-JS-Password-Generator/
+* This GitHub URL is : https://github.com/lijing-code/05-Third-Party-APIs-Work-Day-Scheduler
+* The live URL is : https://lijing-code.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
 
 ## Usage
 
