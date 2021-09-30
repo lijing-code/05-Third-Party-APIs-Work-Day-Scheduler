@@ -37,7 +37,6 @@ $(".btn").each(function(){
 })
 
 //localStorage express on the page (still show on the page after refresh)
-
 function init(){
     var showSchedule = JSON.parse(localStorage.getItem("schedulerRecord"));
     $('.description').each(function(){
