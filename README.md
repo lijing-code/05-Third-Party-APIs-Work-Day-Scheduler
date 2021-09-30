@@ -25,7 +25,7 @@ What I've learned:
 * The live URL is : https://lijing-code.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
 
 ## Usage
-
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/68092036/135388030-3307cb26-e3cb-4355-b93e-84e0308a4629.gif)
 
 * Open the live URL:  https://lijing-code.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
 * Enter the work schedule content for each hour.
